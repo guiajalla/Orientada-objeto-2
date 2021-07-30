@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Apolice
+comment0.text=\r\n\ Exerc\u00EDcio\ 1.\ Desenvolver\ uma\ classe\ Java\ chamada\ Apolice\ com\ os\ seguintes\ \r\n\ atributos\:\ nomeSegurado,\ idade\ e\ valorPremio.\ A\ classe\ Apolice\ dever\u00E1\ \r\n\ conter\ os\ seguintes\ m\u00E9todos\:\r\n\ \r\n\ M\u00E9todo\:\r\n\ imprimir()\ ->\ Este\ m\u00E9todo\ n\u00E3o\ retorna\ valor\ e\ dever\u00E1\ mostrar\ na\ \r\n\ tela\ todos\ os\ atributos\ da\ classe\ Apolice.\ Para\ \r\n\ imprimir\ em\ Java\ usa-se\ o\ comando\r\n\ System.out.println(NOME_ATRIBUTO).\r\n\ \r\n\ calcularPremioApolice()->\ Este\ m\u00E9todo\ n\u00E3o\ retorna\ valor\ e\ dever\u00E1\ calcular\ o\ \r\n\ valor\ do\ pr\u00EAmio\ seguindo\ as\ seguintes\ regras\:\ \r\n\ caso\ a\ idade\ seja\ superior\ a\ 18\ e\ menor\ ou\ igual\ a\ \r\n\ 25\ anos,\ use\ a\ f\u00F3rmula\:\ valorPremio+\=(valorPremio\ *\ 20)/100.\ Quando\ a\ idade\ for\ \r\n\ superior\ a\ 25\ e\ menor\ ou\ igual\ a\ 36\ anos,\ use\ a\ f\u00F3rmula\ valorPremio\ +\=\ (valorPremio\ *\ 15)/100.\ \r\n\ Quando\ a\ idade\ for\ superior\ a\ 36,\ use\ a\ f\u00F3rmula\ valorPremio\ +\=\ (valorPremio\ *\ 10)/100.\r\n\ \r\n\ oferecerDesconto()\ ->\ Este\ m\u00E9todo\ n\u00E3o\ retorna\ valor,\ mas\ recebe\ o\ \r\n\ par\u00E2metro\ cidade,\ que\ ir\u00E1\ conter\ o\ nome\ da\ \r\n\ cidade\ para\ o\ c\u00E1lculo\ do\ desconto.\ Caso\ a\ cidade\ \r\n\ seja\ Curitiba,\ d\u00EA\ um\ desconto\ no\ valor\ do\ pr\u00EAmio\ \r\n\ de\ 20%.\ Caso\ seja\ Rio\ de\ Janeiro,\ d\u00EA\ um\ desconto\ \r\n\ no\ valor\ do\ pr\u00EAmio\ de\ 15%.\ Caso\ seja\ S\u00E3o\ Paulo,\ \r\n\ d\u00EA\ um\ desconto\ no\ valor\ do\ pr\u00EAmio\ de\ 10%.\ Caso\ \r\n\ a\ cidade\ seja\ Belo\ Horizonte,\ dar\ um\ desconto\ no\ \r\n\ valor\ do\ pr\u00EAmio\ de\ 5%.\r\n
+comment1.params=nomeSegurado
+comment1.target=void\ getNome(java.lang.String)
+comment2.params=idade
+comment2.target=void\ getIdade(int)
+comment3.params=valorPremio
+comment3.target=void\ getPremio(double)
+comment4.params=
+comment4.target=void\ Imprimir()
+comment5.params=
+comment5.target=void\ calcularPremioApolice()
+comment6.params=nomeCidade
+comment6.target=void\ oferecerDesconto(java.lang.String)
+numComments=7

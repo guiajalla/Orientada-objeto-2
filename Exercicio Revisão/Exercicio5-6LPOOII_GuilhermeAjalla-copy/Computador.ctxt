@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Computador
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Computador\ aqui.\r\n\ \r\n\ @author\ (Guilherme\ Ajalla\ +\ Miguel\ Bomfanti)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=marca
+comment1.target=void\ getMarca(java.lang.String)
+comment2.params=cor
+comment2.target=void\ getCor(java.lang.String)
+comment3.params=modelo
+comment3.target=void\ getModelo(java.lang.String)
+comment4.params=numeroSerie
+comment4.target=void\ getNumeroSerie(java.lang.String)
+comment5.params=preco
+comment5.target=void\ getPreco(double)
+comment6.params=
+comment6.target=void\ Imprimir()
+comment7.params=
+comment7.target=void\ calcularValor()
+comment8.params=valor
+comment8.target=boolean\ alterarValor(double)
+numComments=9
